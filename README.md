@@ -113,7 +113,7 @@ Licensed under the APLv2. See the [LICENSE](https://github.com/robinpokorny/subt
 [license]: https://github.com/robinpokorny/subtle-typescript-boilerplate/blob/main/LICENSE
 [jest]: https://facebook.github.io/jest/
 [eslint]: https://github.com/eslint/eslint
-[wiki-js-tests]: https://github.com/robinpokorny/subtle-typescript-boilerplate/wiki/Unit-tests-in-plain-JavaScript
+[wiki-js-tests]: https://github.com/jsynowiec/node-typescript-boilerplate/wiki/Unit-tests-in-plain-JavaScript
 [prettier]: https://prettier.io
 [volta]: https://volta.sh
 [volta-getting-started]: https://docs.volta.sh/guide/getting-started
