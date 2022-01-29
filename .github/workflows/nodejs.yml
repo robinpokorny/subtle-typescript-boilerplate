@@ -10,7 +10,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - uses: volta-cli/action@v1
-    - run: npm ci --no-audit
+    - run: npm install --no-audit # On production use: npm ci --no-audit
     - run: npm run lint --if-present
     - run: npm test
     - run: npm run build --if-present
